@@ -1,0 +1,25 @@
+{
+    "name": "com.unity.surface-gradient-bump-mapping",
+    "displayName": "Surface Gradient Bump Mapping",
+    "version": "0.1.0",
+    "unity": "2021.3",
+    "description": "Surface Gradient Bump Mapping is a framework for the layering and compositing of bump maps in Shader Graph.\n\nThis package provides a universal and cohesive approach to stacking bump contributions with support for multiple formats and UV sets.",
+    "keywords": [
+		"surface",
+		"gradient",
+		"bump",
+		"mapping",
+		"map",
+		"maps",
+		"normal",
+		"tangent",
+		"height",
+		"hex",
+		"planar",
+		"triplanar"
+    ],
+    "dependencies": {},
+    "author": {
+        "name": "Unity"
+    }
+}
